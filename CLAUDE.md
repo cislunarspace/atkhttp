@@ -1,3 +1,7 @@
+## Communication
+
+用中文跟我交流。
+
 ## Agent skills
 
 ### Issue tracker
